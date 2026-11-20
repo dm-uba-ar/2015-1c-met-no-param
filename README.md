@@ -1,4 +1,4 @@
-# Métodos No Paramétricos I — Primer cuatrimestre de 2015
+# Met No Param — Primer cuatrimestre de 2015
 
 ## Prácticas
 
